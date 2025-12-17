@@ -1,8 +1,6 @@
 # VEHICLE-PRE-BOOKING-SYSTEM
 Web-based Vehicle Pre-Booking System with AI Travel Assistant
 
-# Vehicle Pre-Booking System
-
 ## Project Overview
 The Vehicle Pre-Booking System is a web-based application designed to support
 vehicle rentals, showroom pre-booking, and travel package reservations through
@@ -29,5 +27,5 @@ Database: MySQL
 AI: NLP-based recommendation system
 
 ## Note
-All project files are uploaded in PDF format as per submission guidelines.
+All project files are uploaded in PDF format except ppt as per submission guidelines.
 
